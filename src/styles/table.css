@@ -1,0 +1,17 @@
+.table_container {
+  display: flex;
+  justify-content: center;
+}
+.table, .table_cel {
+  border: 1px solid slategrey;
+  border-collapse: collapse;
+}
+.table {
+  border-radius: 5px;
+}
+th {
+  padding: 8px 20px;
+}
+td {
+  padding: 4px 0 2px 4px;
+}
